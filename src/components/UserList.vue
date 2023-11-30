@@ -1,13 +1,5 @@
-<template>
+<template>用户列表</template>
 
-</template>
+<script setup lang="ts"></script>
 
-<script>
-export default {
-  name: "PostList"
-};
-</script>
-
-<style scoped>
-
-</style>
+<style scoped></style>

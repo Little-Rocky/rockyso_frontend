@@ -1,13 +1,5 @@
-<template>
-$END$
-</template>
+<template>文章列表</template>
 
-<script>
-export default {
-name: "PostList"
-}
-</script>
+<script setup lang="ts"></script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
